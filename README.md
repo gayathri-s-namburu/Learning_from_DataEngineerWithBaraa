@@ -21,7 +21,7 @@ https://youtu.be/9GVqKuTVANE
 https://www.datawithbaraa.com/
 
 # Data Engineering Journey
-## Junior
+
 This journey is split into two parts: first, learning just enough to get hired as a data engineer, and then growing on the job.
 
 [#1 Foundations](https://www.notion.so/1-Foundations-2f3ac44afc88814eba9be879b06df5a9?pvs=21)
@@ -32,7 +32,7 @@ This journey is split into two parts: first, learning just enough to get hired a
 
 ## GROWTH JOURNEY
 
-# #4 Junior DE
+#4 Junior DE
 
 [#5 Senior DE](https://www.notion.so/5-Senior-DE-2f3ac44afc8881d3beb3c962007e2835?pvs=21)
 
